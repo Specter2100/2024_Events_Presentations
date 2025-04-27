@@ -9,3 +9,8 @@ May.26
 
 2024 Seoul Bitcoin Hackathon
 Winner
+
+August.10
+
+Busan meetup
+organizer
